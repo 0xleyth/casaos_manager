@@ -66,7 +66,4 @@ Contributions to this script are welcome, especially for expanding its functiona
 
 ## License
 
-Specify your preferred license here, or state if the script is available under public domain or other open license types.
-
----
-
+[MIT](https://github.com/sveltejs/kit/blob/master/LICENSE)
